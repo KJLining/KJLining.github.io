@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+    /* background: rgb(160,109,51);
+    background: linear-gradient(180deg, rgba(160,109,51,1) 22%, rgba(58,40,18,1) 93%); */
+
+
+.text-stroke-3 {
+    -webkit-text-stroke: 3px black;
+}
+
+.text-stroke-4 {
+    -webkit-text-stroke: 3px white;
+}
+
+.color{
+    background-color: rgb(255, 136, 68);
+}
+
